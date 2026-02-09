@@ -1,0 +1,4 @@
+
+Name: Pooja, Goal: Learn Python file handling
+Name: Pooja , Goal: Learn Context Managers
+Name: Pooja, Goal: CSV Parsing Basics
